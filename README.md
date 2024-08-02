@@ -5,7 +5,7 @@ adb devices
 adb shell
 
 独立后台
-curl -sS https://ghproxy.com/github.com/Trlsoo/JC09/raw/main/JC0901.sh|sh
+curl -sS https://github.com/Trlsoo/JC09/raw/main/JC0901.sh|sh
 
 内嵌后台
 curl -sS https://ghproxy.com/github.com/Trlsoo/JC09/raw/main/JC0902.sh|sh
