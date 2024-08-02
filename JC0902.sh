@@ -1,7 +1,7 @@
 #!/bin/sh
 cd /home/root
 mkdir html
-wget https://ghproxy.com/github.com/Trlsoo/JC09/raw/main/JC09-html2.tar -O jc09.tar
+wget github.com/Trlsoo/JC09/raw/main/JC09-html2.tar -O jc09.tar
 tar xvf jc09.tar
 cd jc09
 mount -o remount,rw /
